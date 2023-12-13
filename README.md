@@ -4,16 +4,16 @@
 - W3Schools
 
 > [!NOTE]
-> Nota espacial para Markdown
+> Code::blocks fue usado para "w3schools"
 
 > [!TIP]
-> Nota espacial para Markdown
+> Nota especial para GitHub + Markdown
 
 > [!IMPORTANT]
-> Nota espacial para Markdown
+> Nota especial para GitHub + Markdown
 
 > [!WARNING]
-> Nota espacial para Markdown
+> Nota especial para GitHub + Markdown
 
 > [!CAUTION]
-> Nota espacial para Markdown
+> Nota especial para GitHub + Markdown

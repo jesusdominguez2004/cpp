@@ -3,17 +3,17 @@
 - Pruebas
 - W3Schools
 
-> .[!NOTE].
+> [!NOTE]
 > Nota espacial para Markdown
 
-> .[!TIP].
+> [!TIP]
 > Nota espacial para Markdown
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > Nota espacial para Markdown
 
-> .[!WARNING].
+> [!WARNING]
 > Nota espacial para Markdown
 
-> .[!CAUTION].
+> [!CAUTION]
 > Nota espacial para Markdown

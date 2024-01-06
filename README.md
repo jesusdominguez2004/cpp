@@ -19,14 +19,26 @@ A continuación, algunas preguntas pendientes para investigar en momentos futuro
 
 ---
 
+Cosas por hacer:
+> [!IMPORTANT]
+> Organizar "w3schools" por lecciones útiles
+
+> [!IMPORTANT]
+> Programar un cubo en 3D
+
+> [!IMPORTANT]
+> Programar la popular dona en código y salida 3D giratoria
+
+---
+
 > [!NOTE]
-> Code::blocks fue usado para "w3schools"
+> Visual Studio Code y Code::blocks fueron usados para "w3schools"
 
 > [!TIP]
 > Nota especial para GitHub + Markdown
 
 > [!IMPORTANT]
-> Organizar "w3schools" por lecciones
+> Nota especial para GitHub + Markdown
 
 > [!WARNING]
 > Nota especial para GitHub + Markdown

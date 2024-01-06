@@ -17,3 +17,16 @@
 
 > [!CAUTION]
 > Nota especial para GitHub + Markdown
+
+---
+
+A continuación, algunas preguntas pendientes para investigar en momentos futuros:
+
+> [!NOTE]
+> ¿Cómo recorrer una matrix con un for each?
+
+> [!NOTE]
+> ¿Cómo obtener la cantidad de filas y columnas de una matrix?
+
+> [!NOTE]
+> ¿Cómo crear archivos .txt?

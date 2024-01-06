@@ -10,7 +10,7 @@
 > Nota especial para GitHub + Markdown
 
 > [!IMPORTANT]
-> Nota especial para GitHub + Markdown
+> Organizar "w3schools" por lecciones
 
 > [!WARNING]
 > Nota especial para GitHub + Markdown

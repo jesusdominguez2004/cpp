@@ -29,6 +29,9 @@ Cosas por hacer:
 > [!IMPORTANT]
 > Programar la popular dona en código y salida 3D giratoria
 
+> [!IMPORTANT]
+> Estudiar y examinar los script compartidos del ingeniero Deiner Domínguez.
+
 ---
 
 > [!NOTE]

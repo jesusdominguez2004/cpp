@@ -21,30 +21,29 @@ A continuación, algunas preguntas pendientes para investigar en momentos futuro
 
 Cosas por hacer:
 > [!IMPORTANT]
-> Organizar "w3schools" por lecciones útiles
+> Organizar "w3schools" por lecciones útiles.
 
 > [!IMPORTANT]
-> Programar un cubo en 3D
+> Programar un cubo en 3D.
 
 > [!IMPORTANT]
-> Programar la popular dona en código y salida 3D giratoria
+> Programar la popular dona en código y salida 3D giratoria.
 
 > [!IMPORTANT]
-> Estudiar y examinar los script compartidos del ingeniero Deiner Domínguez.
-
+> Estudiar y examinar los script compartidos del ingeniero <a href="https://github.com/deinerdb">Deiner Domínguez</a>.
 ---
 
 > [!NOTE]
-> Visual Studio Code y Code::blocks fueron usados para "w3schools"
+> Visual Studio Code y Code::blocks fueron usados para "w3schools".
 
 > [!TIP]
-> Nota especial para GitHub + Markdown
+> Nota especial para GitHub + Markdown.
 
 > [!IMPORTANT]
-> Nota especial para GitHub + Markdown
+> Nota especial para GitHub + Markdown.
 
 > [!WARNING]
-> Nota especial para GitHub + Markdown
+> Nota especial para GitHub + Markdown.
 
 > [!CAUTION]
-> Nota especial para GitHub + Markdown
+> Nota especial para GitHub + Markdown.

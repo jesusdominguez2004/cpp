@@ -1,4 +1,4 @@
-// W3Schools, C++ Functions Parameters, Pass Arrays
+// W3Schools, C++ Function Parameters, Pass Arrays
 #include <iostream>
 using namespace std;
 

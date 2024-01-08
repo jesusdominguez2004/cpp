@@ -1,4 +1,4 @@
-// W3Schools, C++ Functions Parameters, Multiple Parameters
+// W3Schools, C++ Function Parameters, Multiple Parameters
 #include <iostream>
 #include <string>
 using namespace std;

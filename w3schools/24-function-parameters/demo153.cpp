@@ -1,4 +1,4 @@
-// W3Schools, C++ Functions Parameters, Return Values
+// W3Schools, C++ Function Parameters, Return Values
 #include <iostream>
 using namespace std;
 

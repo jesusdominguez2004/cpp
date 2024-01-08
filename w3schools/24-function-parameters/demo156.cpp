@@ -1,4 +1,4 @@
-// W3Schools, C++ Functions Parameters, Pass by Reference
+// W3Schools, C++ Function Parameters, Pass by Reference
 #include <iostream>
 using namespace std;
 

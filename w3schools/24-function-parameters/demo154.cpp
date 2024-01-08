@@ -1,4 +1,4 @@
-// W3Schools, C++ Functions Parameters, Return Values
+// W3Schools, C++ Function Parameters, Return Values
 #include <iostream>
 using namespace std;
 
@@ -7,7 +7,6 @@ int myFunction(int x, int y) {
 }
 
 int main() {
-    int z = myFunction(5, 3);
-    cout << z;
+    cout << myFunction(5, 3);
     return 0;
 }

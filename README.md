@@ -7,6 +7,20 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 
 ---
 
+INFORMACIÓN SOBRE EL REPOSITORIO:
+
+> [!NOTE]
+> Visual Studio Code y Code::blocks fueron usados para "w3schools".
+
+---
+
+CONSEJOS Y BUENAS PRÁCTICAS EN C++:
+
+> [!TIP]
+> It is considered good practice to declare your class attributes as private (as often as you can).
+
+---
+
 TEMAS POR INVESTIGAR:
 
 > [!NOTE]
@@ -17,13 +31,6 @@ TEMAS POR INVESTIGAR:
 
 > [!NOTE]
 > ¿Cómo crear archivos .txt?
-
----
-
-CONSEJOS Y BUENAS PRÁCTICAS EN C++:
-
-> [!TIP]
-> It is considered good practice to declare your class attributes as private (as often as you can).
 
 ---
 
@@ -43,8 +50,10 @@ COSAS POR HACER:
 
 ---
 
+PLANTILLAS NOTAS ESPECIALES GITHUB + MARKDOWN:
+
 > [!NOTE]
-> Visual Studio Code y Code::blocks fueron usados para "w3schools".
+> Nota especial para GitHub + Markdown.
 
 > [!TIP]
 > Nota especial para GitHub + Markdown.

@@ -31,6 +31,12 @@ Cosas por hacer:
 
 > [!IMPORTANT]
 > Estudiar y examinar los script compartidos del ingeniero <a href="https://github.com/deinerdb">Deiner Domínguez</a>.
+
+---
+
+> [!TIP]
+> It is considered good practice to declare your class attributes as private (as often as you can).
+
 ---
 
 > [!NOTE]

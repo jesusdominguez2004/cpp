@@ -4,6 +4,7 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" alt="cpp" width="40" height="40"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="codeblocks" width="40" height="40"/>
+
 ---
 
 A continuación, algunas preguntas pendientes para investigar en momentos futuros:
@@ -33,6 +34,7 @@ Cosas por hacer:
 > Estudiar y examinar los script compartidos del ingeniero <a href="https://github.com/deinerdb">Deiner Domínguez</a>.
 
 ---
+Consejos y buenas prácticas en C++:
 
 > [!TIP]
 > It is considered good practice to declare your class attributes as private (as often as you can).

@@ -7,7 +7,7 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 
 ---
 
-A continuación, algunas preguntas pendientes para investigar en momentos futuros:
+TEMAS POR INVESTIGAR:
 
 > [!NOTE]
 > ¿Cómo recorrer una matrix con un for each?
@@ -20,7 +20,15 @@ A continuación, algunas preguntas pendientes para investigar en momentos futuro
 
 ---
 
-Cosas por hacer:
+CONSEJOS Y BUENAS PRÁCTICAS EN C++:
+
+> [!TIP]
+> It is considered good practice to declare your class attributes as private (as often as you can).
+
+---
+
+COSAS POR HACER:
+
 > [!IMPORTANT]
 > Organizar "w3schools" por lecciones útiles.
 
@@ -32,12 +40,6 @@ Cosas por hacer:
 
 > [!IMPORTANT]
 > Estudiar y examinar los script compartidos del ingeniero <a href="https://github.com/deinerdb">Deiner Domínguez</a>.
-
----
-Consejos y buenas prácticas en C++:
-
-> [!TIP]
-> It is considered good practice to declare your class attributes as private (as often as you can).
 
 ---
 

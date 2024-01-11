@@ -19,6 +19,9 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 > [!TIP]
 > It is considered good practice to declare your class attributes as private (as often as you can).
 
+> [!TIP]
+> Setter and getter (as often as you can).
+
 ---
 
 **TEMAS POR INVESTIGAR:**

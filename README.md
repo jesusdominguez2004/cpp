@@ -22,6 +22,9 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 > [!TIP]
 > Setter and getter (as often as you can).
 
+> [!TIP]
+> Close the file and can clean up unnecessary memory space.
+
 ---
 
 **TEMAS POR INVESTIGAR:**

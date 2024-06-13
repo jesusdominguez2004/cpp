@@ -56,7 +56,9 @@
         "numeric": "cpp",
         "random": "cpp",
         "string_view": "cpp",
-        "numbers": "cpp"
+        "numbers": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp"
     },
     "C_Cpp.default.compilerPath": "D:\\msys64\\mingw64\\bin\\g++.exe"
 }

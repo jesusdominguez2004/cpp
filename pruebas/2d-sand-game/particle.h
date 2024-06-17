@@ -4,20 +4,20 @@
 
 class Particle {
     public:
-        Particle(uint x, uint y, Color3 color, std::string name, uint id, int density);
+        Particle(int x, int y, Color3 color, std::string name, int id, int density);
         Particle();
-        static Particle Air(uint x, uint y);
-        static Particle Sand(uint x, uint y);
-        static Particle Water(uint x, uint y);
+        static Particle Air(int x, int y);
+        static Particle Sand(int x, int y);
+        static Particle Water(int x, int y);
         void update();
         void draw();
         bool fall();
         bool liquidSpread();
         bool floatUp();
-        uint x;
-        uint y;
+        int x;
+        int y;
         Color3 color;
         std::string name;
-        uint id;
+        int id;
         int density;
 };

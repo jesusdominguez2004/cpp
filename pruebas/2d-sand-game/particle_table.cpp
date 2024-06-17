@@ -5,21 +5,21 @@
 ParticleTable::ParticleTable() = default;
 
 ParticleTable::ParticleTable(int size) {
-    for (uint x = 0; x != uint(size); x++) {
-        for (uint y = 0; y != uint(size); y++) {
-            table[std::pair<uint, uint>(x, y)] = Particle::Air(x, y);
+    for (int x = 0; x != int(size); x++) {
+        for (int y = 0; y != int(size); y++) {
+            table[std::pair<int, int>(x, y)] = Particle::Air(x, y);
         }
     }
 }
 
-Particle ParticleTable::get(uint x, uint y) {
-    return table[std::pair<uint, uint>(x, y)];
+Particle ParticleTable::get(int x, int y) {
+    return table[std::pair<int, int>(x, y)];
 }
 
-void ParticleTable::set(uint x, uint y, Particle value) {
+void ParticleTable::set(int x, int y, Particle value) {
     value.x = x;
     value.y = y;
-    table[std::pair<uint, uint>(x, y)] = value;
+    table[std::pair<int, int>(x, y)] = value;
     value.draw();
 } 
 

@@ -8,12 +8,12 @@ class ParticleTable {
         ParticleTable();
         ParticleTable(int size);
 
-        Particle get(uint x, uint y);
-        void set(uint x, uint y, Particle value);
+        Particle get(int x, int y);
+        void set(int x, int y, Particle value);
 
         void update();
         void draw();
 
     private:
-        std::map <std::pair<uint, uint>, Particle> table;
+        std::map <std::pair<int, int>, Particle> table;
 };

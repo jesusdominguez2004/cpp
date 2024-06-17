@@ -2,4 +2,3 @@ Thanks to "PolarsBear"!
 https://github.com/PolarsBear
 
 - Why use the "unint" identifier?
-- How do I install <GLFW/glfw3.h> and <GL/glut.h> modules?

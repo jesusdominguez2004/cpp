@@ -1,4 +1,0 @@
-Thanks to "PolarsBear"!
-https://github.com/PolarsBear
-
-- Why use the "unint" identifier?

@@ -58,7 +58,10 @@
         "string_view": "cpp",
         "numbers": "cpp",
         "fstream": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "map": "cpp",
+        "optional": "cpp",
+        "cinttypes": "cpp"
     },
     "C_Cpp.default.compilerPath": "D:\\msys64\\mingw64\\bin\\g++.exe"
 }

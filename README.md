@@ -1,4 +1,4 @@
-# C++ 🌿📚🤖
+# C++ 🌿📚
 
 **INFORMACIÓN GENERAL:**
 
